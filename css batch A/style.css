@@ -1,0 +1,10 @@
+.para{
+    color: green;
+    font-size: 40px;
+}
+
+#para1{
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
