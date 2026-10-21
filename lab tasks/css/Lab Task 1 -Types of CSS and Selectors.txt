@@ -1,0 +1,31 @@
+CSS Lab Task 1: Types of CSS and Selectors
+
+Objective: To implement CSS using three methods — Inline CSS, Internal CSS, and External CSS — and practice Element, Class, and ID selectors.
+
+Task Description
+
+Create a simple HTML webpage demonstrating the following CSS concepts:
+
+1. Types of CSS
+
+Inline CSS
+
+Internal CSS
+
+External CSS
+
+2. CSS Selectors
+
+Element Selector
+
+Class Selector
+
+ID Selector
+
+3. CSS Properties
+
+color
+
+background-color
+
+font-size

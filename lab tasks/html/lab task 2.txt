@@ -1,0 +1,36 @@
+Lab Task 2: Places to Visit
+
+Objective:
+Create an HTML webpage that displays a list of 5 places to visit using an ordered list (<ol>).
+
+Requirements
+Create an ordered list using the <ol> tag.
+Add 5 places to visit using <li> elements.
+Display the place name using a heading tag such as <h3> or <h4>.
+Add an image of each place using the <img> tag.
+Add a short description using the <p> tag.
+Add a Wikipedia link after the description using the <a> tag.
+The Wikipedia link should open in a new browser tab.
+example code :-
+<ol>
+
+    <li>
+        <h3>Jaipur</h3>
+
+        <img src="jaipur.jpg" alt="Jaipur">
+
+        <p>
+            Jaipur is known as the Pink City and is famous for its forts,
+            palaces, and rich culture.
+        </p>
+
+        <a href="https://en.wikipedia.org/wiki/Jaipur" target="_blank">
+            Read more on Wikipedia
+        </a>
+    </li>
+</ol>
+Create the webpage using your own 5 places. For each place, include:
+
+<li> → <h3>/<h4> → <img> → <p> → <a>
+
+The Wikipedia link should open in a new tab using target="_blank".

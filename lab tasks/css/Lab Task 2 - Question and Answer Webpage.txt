@@ -1,0 +1,23 @@
+CSS Lab Task 2: Question and Answer Webpage
+
+Objective: To create a webpage containing five questions and their answers using HTML and CSS.
+
+Task Description
+
+Create a webpage that displays 5 questions and answers, with each question-answer pair inside a separate box with a border.
+
+Practical Requirements
+
+Create five question-and-answer pairs using HTML.
+
+Display each question in red color.
+
+Display each answer in blue color.
+
+Place each question and its answer inside a separate box.
+
+Apply a visible border around each box.
+
+Use appropriate HTML tags, such as headings for questions and paragraphs for answers.
+
+Use CSS properties such as color, border, padding, and margin to style the webpage.

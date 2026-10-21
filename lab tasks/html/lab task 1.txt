@@ -1,0 +1,17 @@
+Lab Task 1 : -
+ HTML Questions & Answers Webpage
+
+Objective:
+Create a simple HTML webpage that displays 5 questions and their answers using heading, paragraph, and horizontal line (<hr>) tags.
+
+Requirements:
+
+Create an HTML webpage containing 5 questions with their answers.
+Display each question using any heading tag (<h1> to <h6>).
+Display each answer using a paragraph tag (<p>).
+Use the <hr> tag to create a horizontal line between each question-answer pair.
+Use meaningful questions related to HTML.
+Example 
+<h2>What is HTML?</h2>
+<p>HTML stands for HyperText Markup Language. It is used to create the structure of web pages.</p>
+<hr>
