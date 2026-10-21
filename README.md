@@ -1,0 +1,1 @@
+# vgu-training-2026
